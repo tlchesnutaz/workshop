@@ -1,0 +1,9 @@
+.history
+*.local
+*.log
+logs
+.md
+!README.md
+
+temp/
+node modules/
